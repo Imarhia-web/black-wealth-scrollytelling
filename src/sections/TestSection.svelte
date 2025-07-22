@@ -13,7 +13,7 @@
             <ArticleText>
                 
                 The effect of redlining has been detrimental on the marginalised groups in America. 
-                Since it followed from the 
+                
                 
             </ArticleText>
         {/snippet}

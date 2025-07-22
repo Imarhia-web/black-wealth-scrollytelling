@@ -20,6 +20,7 @@
         padding: 2rem;
         box-sizing: border-box;
         font-family:'Courier New', Courier, monospace;
+    }
 
     .content {
         max-width: 700px;

@@ -50,10 +50,10 @@
             borderRadius: 20,
         },
         title: {
-            text: "Another Example Chart",
+            text: "Chart Showing Decline in Household Net Worth",
         },
         subtitle: {
-            text: "With a subtitle! And styling!",
+            text: "Median household net worth from 2007",
         },
         series: [series[0], series[1]],
     };
