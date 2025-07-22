@@ -19,8 +19,7 @@
         text-align: center;
         padding: 2rem;
         box-sizing: border-box;
-        font-family: "Inter", sans-serif;
-    }
+        font-family:'Courier New', Courier, monospace;
 
     .content {
         max-width: 700px;
@@ -28,14 +27,14 @@
         padding: 2rem;
         border: 6px solid #8448a0;
         border-radius: 2rem;
-        box-shadow: 16px 16px #547dca;
+        box-shadow: 16px 16px #1d1919;
     }
 
     h1 {
         font-size: 3rem;
         margin: 0;
         color: #8448a0;
-        text-shadow: 1px 1px 0 #547dca;
+        text-shadow: 1px 1px 0 #1c1e22;
     }
 
     p {

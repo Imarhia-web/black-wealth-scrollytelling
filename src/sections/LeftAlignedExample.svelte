@@ -101,27 +101,21 @@
 
         {#snippet scrolly()}
             <ArticleText>
-                You might notice that this basic template doesn't have certain
-                features that are common in scrollytelling.
+                As recently as 2023, the median net worth for black people 
+                is still below $50,000, the way it has been for <strong>16 years</strong>.
             </ArticleText>
 
             <ArticleText>
-                For example, you might want a component that doesn't feature a
-                sticky component at all. Or a component that is solely a sticky
-                component.
+                Since 2007, the median networth of households show a steady descrease 
+                --accounted for by the 2008 recession-- this took an upward trend towards the mid 2010s. 
             </ArticleText>
 
             <ArticleText>
-                You might also want to add more interactivity or gamify parts of
-                your scrollytelling piece.
+               Despite this upward trend, black and hispanic communities remain steadily below the 50k
+               mark and there is no significant change for them till the late 2010s.
             </ArticleText>
 
-            <ArticleText>
-                <strong>
-                    It's up to you to research how to create the effects and
-                    functionality that you envision!
-                </strong>
-            </ArticleText>
+            
         {/snippet}
     </Scroller>
 </div>
