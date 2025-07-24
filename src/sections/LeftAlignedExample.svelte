@@ -44,8 +44,8 @@
     let options = {
         chart: {
             type: "spline",
-            backgroundColor: "#e3ff00",
-            borderColor: "#007052",
+            backgroundColor: "#2715A3",
+            borderColor: "#A397F2",
             borderWidth: 5,
             borderRadius: 20,
         },
@@ -80,23 +80,7 @@
             <button on:click={toggleThirdSeries} class="toggle-button">
                 {thirdSeriesVisible ? "Remove Group 3" : "Add Group 3"}
             </button>
-            <div>
-                <p>
-                    You can use Svelte to add and remove data from a Highcharts
-                    chart.
-                </p>
-                <p>
-                    When you click the button above, a third group is toggled in
-                    the chart. Check out the source code to see how it's done.
-                </p>
-                <p>
-                    <strong
-                        >🤔 How might you use other HTML elements, like
-                        checkboxes or radio buttons, in a similar way to filter
-                        data?</strong
-                    >
-                </p>
-            </div>
+           
         {/snippet}
 
         {#snippet scrolly()}
@@ -130,17 +114,17 @@
         margin: 20px;
         padding: 20px;
         color: #007052;
-        background-color: #0bd956;
-        border: solid 2px #007052;
+        background-color: #6F15A3;
+        border: solid 2px #49A315;
         border-radius: 16px;
         font-size: large;
         cursor: pointer;
         transition: all 0.2s ease;
-        box-shadow: 0 4px 0 #007052;
+        box-shadow: 0 4px 0 #49A315;
     }
 
     .toggle-button:active {
         transform: translateY(2px);
-        box-shadow: 0 2px 0 #007052;
+        box-shadow: 0 2px 0 #49A315;
     }
 </style>
