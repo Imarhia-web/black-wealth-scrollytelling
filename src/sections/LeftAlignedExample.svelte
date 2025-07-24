@@ -78,7 +78,7 @@
         <Chart bind:chart {options} highcharts={Highcharts} />
       </div>
       <button on:click={toggleThirdSeries} class="toggle-button">
-        {thirdSeriesVisible ? "Remove Group 3" : "Add Group 3"}
+        {thirdSeriesVisible ? "Remove Group " : "Add Group "}
       </button>
     {/snippet}
 
